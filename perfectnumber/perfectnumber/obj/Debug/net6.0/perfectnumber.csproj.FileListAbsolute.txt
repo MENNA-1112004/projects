@@ -1,0 +1,15 @@
+E:\visual std\perfectnumber\perfectnumber\bin\Debug\net6.0\perfectnumber.exe
+E:\visual std\perfectnumber\perfectnumber\bin\Debug\net6.0\perfectnumber.deps.json
+E:\visual std\perfectnumber\perfectnumber\bin\Debug\net6.0\perfectnumber.runtimeconfig.json
+E:\visual std\perfectnumber\perfectnumber\bin\Debug\net6.0\perfectnumber.dll
+E:\visual std\perfectnumber\perfectnumber\bin\Debug\net6.0\perfectnumber.pdb
+E:\visual std\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.csproj.AssemblyReference.cache
+E:\visual std\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual std\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.AssemblyInfoInputs.cache
+E:\visual std\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.AssemblyInfo.cs
+E:\visual std\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.csproj.CoreCompileInputs.cache
+E:\visual std\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.dll
+E:\visual std\perfectnumber\perfectnumber\obj\Debug\net6.0\refint\perfectnumber.dll
+E:\visual std\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.pdb
+E:\visual std\perfectnumber\perfectnumber\obj\Debug\net6.0\perfectnumber.genruntimeconfig.cache
+E:\visual std\perfectnumber\perfectnumber\obj\Debug\net6.0\ref\perfectnumber.dll
